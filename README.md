@@ -1,2 +1,2 @@
-# samp-hack
-SA:MP hack
+# SA:MP hack
+Menu - '_Insert_'
