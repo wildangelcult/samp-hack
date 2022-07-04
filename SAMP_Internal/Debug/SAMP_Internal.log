@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  global.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  Generating Code...
+  SAMP_Internal.vcxproj -> D:\Projects\SAMP_Internal\Debug\SAMP_Internal.dll

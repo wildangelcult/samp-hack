@@ -1,0 +1,73 @@
+﻿  aimbot.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+D:\Projects\SAMP_Internal\SAMP_Internal\aimbot.cpp(32,45): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\aimbot.cpp(40,54): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\aimbot.cpp(52,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\aimbot.cpp(53,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\aimbot.cpp(55,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  config.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  dllmain.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  draw.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(18,32): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(18,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(19,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(19,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(20,18): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(25,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(25,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(25,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(25,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(57,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(57,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(57,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(57,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(60,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(60,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(60,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\draw.cpp(60,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  esp.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(6,19): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(7,20): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(8,19): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(16,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(16,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(16,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(16,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(19,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(19,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(19,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(19,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(25,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(25,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(25,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(25,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(30,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(30,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(30,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(40,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(40,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(40,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\SAMP_Internal\SAMP_Internal\esp.cpp(40,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  freecam.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  geom.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  global.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  gui.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  hooks.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  sdk.cpp
+D:\Projects\SAMP_Internal\SAMP_Internal\sdk.h(201,1): warning C4624: 'remoteplayer': destructor was implicitly defined as deleted
+  Generating code
+  125 of 2914 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    35 functions were new in current compilation
+    40 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SAMP_Internal.vcxproj -> D:\Projects\SAMP_Internal\Release\SAMP_Internal.dll
