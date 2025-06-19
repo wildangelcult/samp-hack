@@ -1,4 +1,5 @@
 # SA:MP hack
+Moved to GitLab https://gitlab.com/wildangelcult/samp-hack
 Inject after logging in to the game!!
 
 Menu - '_Insert_'
